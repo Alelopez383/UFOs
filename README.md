@@ -33,10 +33,12 @@ The goal is to create an interactive webpage that allows readers to parse the da
 
 # Recomendations:
 
-1. Add to each filter a dropdown menu to see possible filter values. For example, you can't tell that UFOs in the shape of a fireball exist unless you scroll down the table. Which makes the search tedious and makes the filter function outdated. The same applies for the city and date filter. The Country filter could be removed as there is only one value, US; By removing a filter that doesn't work, you improve the user experience.
+1. Add to each filter a dropdown menu to see possible filter values. For example, the usuer would not know that there are UFOs in the shape of fireballs unless the user scroll down the table. Which makes the search tedious and makes the filter function outdated. The same applies for the city and date filter. The Country filter could be removed as there is only one value, US; By removing a filter that doesn't work, you improve the user experience.
 
 2. People who search for UFOs webpages mostly want to see the photos or video. Diplaying a gallery with some photos woulde be a plus.
 
-3. Making case sensitivity or mispell sensitivity can throw to misinformation.
+3. Making case sensitivity or mispell sensitivity can throw to misinformation; so to give a better experience, avoid it.
 
-4. About the script for the index.html, is very easy to loos ourselves with the syntax, so track the changes by refreshing the html shell., and saving the process often.
+4. The refresh or clear filter button should be under the filters, to facilitate the new search to the user.
+
+5. About the script for index.html, it's very easy to get lost with the syntax, so keep track of changes by updating the html shell and saving the process frequently.
